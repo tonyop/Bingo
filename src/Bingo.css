@@ -1,0 +1,67 @@
+
+
+
+.board{
+  position: absolute;
+  width: 50%;
+  height: 65%;
+  left: 50%;
+  top: 55%;
+  transform: translate(-50%, -45%);
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  background-color: rgb(252, 144, 3);
+  background-image: radial-gradient(red,  rgb(252, 144, 3));
+  box-shadow: 18px 20px rgba(52, 52, 52, 0.5);
+  -webkit-border-radius: 3.5%;
+  -moz-border-radius: 3.5%;
+  border-radius: 3.5%;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  width: 84%;
+  height: 15%;
+  margin-left: 8%;
+  margin-right: 8%;
+}
+
+.rowLetter {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  width: 84%;
+  height: 19%;
+  margin-left: 8%;
+  margin-right: 8%;
+}
+
+.column {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 150%;
+  text-align: center;
+  position: relative;
+  width: 20%;
+  margin: 1%;
+  -webkit-border-radius: 3.5%;
+  -moz-border-radius: 3.5%;
+  border-radius: 3.5%;
+  box-shadow: 5px 7px rgba(52, 52, 52, 0.2);
+}
+
+
+
+
+ .bingoLetter {
+  position: relative;
+  left: -41%;
+  top: 8%;
+  width: 175%;
+  height: 125%;
+  z-index: 5;
+}
+
