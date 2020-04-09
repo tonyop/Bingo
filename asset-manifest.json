@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/Bingo/static/css/main.f8f2153e.chunk.css",
+    "main.js": "/Bingo/static/js/main.70c76a4f.chunk.js",
+    "main.js.map": "/Bingo/static/js/main.70c76a4f.chunk.js.map",
+    "runtime-main.js": "/Bingo/static/js/runtime-main.488a9160.js",
+    "runtime-main.js.map": "/Bingo/static/js/runtime-main.488a9160.js.map",
+    "static/js/2.08af83ab.chunk.js": "/Bingo/static/js/2.08af83ab.chunk.js",
+    "static/js/2.08af83ab.chunk.js.map": "/Bingo/static/js/2.08af83ab.chunk.js.map",
+    "index.html": "/Bingo/index.html",
+    "precache-manifest.479e97622e8df958de2ef6c67fec7baa.js": "/Bingo/precache-manifest.479e97622e8df958de2ef6c67fec7baa.js",
+    "service-worker.js": "/Bingo/service-worker.js",
+    "static/css/main.f8f2153e.chunk.css.map": "/Bingo/static/css/main.f8f2153e.chunk.css.map",
+    "static/js/2.08af83ab.chunk.js.LICENSE.txt": "/Bingo/static/js/2.08af83ab.chunk.js.LICENSE.txt",
+    "static/media/B.png": "/Bingo/static/media/B.a40c304f.png",
+    "static/media/G.png": "/Bingo/static/media/G.b68d13d7.png",
+    "static/media/I.png": "/Bingo/static/media/I.a9873fca.png",
+    "static/media/N.png": "/Bingo/static/media/N.eba4909f.png",
+    "static/media/O.png": "/Bingo/static/media/O.2295cec9.png",
+    "static/media/blue_1.png": "/Bingo/static/media/blue_1.8c65206a.png",
+    "static/media/blue_2.png": "/Bingo/static/media/blue_2.9cc1b5fe.png",
+    "static/media/blue_3.png": "/Bingo/static/media/blue_3.d61bf90f.png",
+    "static/media/blue_4.png": "/Bingo/static/media/blue_4.c86a7610.png",
+    "static/media/blue_5.png": "/Bingo/static/media/blue_5.3a2a8622.png",
+    "static/media/green_1.png": "/Bingo/static/media/green_1.59a25701.png",
+    "static/media/green_2.png": "/Bingo/static/media/green_2.a56f8251.png",
+    "static/media/green_3.png": "/Bingo/static/media/green_3.f219dbc4.png",
+    "static/media/green_4.png": "/Bingo/static/media/green_4.be70b966.png",
+    "static/media/green_5.png": "/Bingo/static/media/green_5.a196918d.png",
+    "static/media/pink_1.png": "/Bingo/static/media/pink_1.7786d61a.png",
+    "static/media/pink_2.png": "/Bingo/static/media/pink_2.b40b451b.png",
+    "static/media/pink_3.png": "/Bingo/static/media/pink_3.3c9616b2.png",
+    "static/media/pink_4.png": "/Bingo/static/media/pink_4.8a2b39dd.png",
+    "static/media/pink_5.png": "/Bingo/static/media/pink_5.e84137de.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.488a9160.js",
+    "static/js/2.08af83ab.chunk.js",
+    "static/css/main.f8f2153e.chunk.css",
+    "static/js/main.70c76a4f.chunk.js"
+  ]
+}
