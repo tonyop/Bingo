@@ -100,7 +100,13 @@ class BingoBoard extends React.Component {
         let randomNumber;
         while (!found){
           randomNumber = 1+(15*c)+Math.floor(Math.random() * 15);
-          found = !brd[r].includes(randomNumber);
+          found = true;
+          for (let rt=0; rt<r; rt++){
+            if(randomNumber===brd[rt][c].num){
+              found = false;
+              break;
+            }
+          }
         }
         if (r===2 && c===2){
           randomNumber = -1;

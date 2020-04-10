@@ -47,7 +47,7 @@ const emojis_sick = {0: 'https://www.flaticon.com/premium-icon/icons/svg/1791/17
 
 
 const backgrounds = [emojis, spring, emojis_sick];
-const probs = [0.45, 0.9, 1];
+const probs = [0.33, 0.66, 1];
 
 
 const draw = Math.random();
