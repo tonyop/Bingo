@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "776bbf92e666176165aa2091404f7e4a",
+    "revision": "1eb3d5ffbf649b9579a6b374252615a9",
     "url": "/Bingo/index.html"
   },
   {
-    "revision": "ac8509a2aaf253429a78",
+    "revision": "2d49a4d4cf9b555347d3",
     "url": "/Bingo/static/css/main.f8f2153e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Bingo/static/js/2.08af83ab.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ac8509a2aaf253429a78",
-    "url": "/Bingo/static/js/main.1eca8180.chunk.js"
+    "revision": "2d49a4d4cf9b555347d3",
+    "url": "/Bingo/static/js/main.2417f382.chunk.js"
   },
   {
     "revision": "22b4b2f282196edfc85a",
