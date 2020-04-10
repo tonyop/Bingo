@@ -91,7 +91,7 @@ class BingoSquare extends React.Component {
       card = <p style={{zIndex:'10'}}>{num}</p>;
     }
     else{
-      card = <p style={{zIndex:'10', color:'rgb(150, 20, 20)'}}>FREE</p>;
+      card = <p style={{zIndex:'10', color:'rgb(150, 20, 20)'}}>&#9733;</p>;
     }
 
     let color;
