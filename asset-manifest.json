@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Bingo/static/css/main.f8f2153e.chunk.css",
-    "main.js": "/Bingo/static/js/main.f885e4cb.chunk.js",
-    "main.js.map": "/Bingo/static/js/main.f885e4cb.chunk.js.map",
+    "main.js": "/Bingo/static/js/main.1eca8180.chunk.js",
+    "main.js.map": "/Bingo/static/js/main.1eca8180.chunk.js.map",
     "runtime-main.js": "/Bingo/static/js/runtime-main.488a9160.js",
     "runtime-main.js.map": "/Bingo/static/js/runtime-main.488a9160.js.map",
     "static/js/2.08af83ab.chunk.js": "/Bingo/static/js/2.08af83ab.chunk.js",
     "static/js/2.08af83ab.chunk.js.map": "/Bingo/static/js/2.08af83ab.chunk.js.map",
     "index.html": "/Bingo/index.html",
-    "precache-manifest.00508d34f0f17acfee5b868aed4af5c3.js": "/Bingo/precache-manifest.00508d34f0f17acfee5b868aed4af5c3.js",
+    "precache-manifest.bcdde657db7f1415fdb0625318f020e5.js": "/Bingo/precache-manifest.bcdde657db7f1415fdb0625318f020e5.js",
     "service-worker.js": "/Bingo/service-worker.js",
     "static/css/main.f8f2153e.chunk.css.map": "/Bingo/static/css/main.f8f2153e.chunk.css.map",
     "static/js/2.08af83ab.chunk.js.LICENSE.txt": "/Bingo/static/js/2.08af83ab.chunk.js.LICENSE.txt",
@@ -37,6 +37,6 @@
     "static/js/runtime-main.488a9160.js",
     "static/js/2.08af83ab.chunk.js",
     "static/css/main.f8f2153e.chunk.css",
-    "static/js/main.f885e4cb.chunk.js"
+    "static/js/main.1eca8180.chunk.js"
   ]
 }
