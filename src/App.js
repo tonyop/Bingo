@@ -91,14 +91,14 @@ function App() {
             how={60} /* Pass the number of images Sky will render chosing randomly */
             time={200} /* time of animation */
             size={'30px'} /* size of the rendered images */
-            background={'rgba(52, 52, 52, 0.7)'} /* color of background */
+            background={'rgba(52, 52, 52, 0.6)'} /* color of background */
           />
           <Sky
             images={background}
             how={60} /* Pass the number of images Sky will render chosing randomly */
             time={200} /* time of animation */
             size={'50px'} /* size of the rendered images */
-            background={'rgba(52, 52, 52, 0.5)'} /* color of background */
+            background={'rgba(52, 52, 52, 0.4)'} /* color of background */
           />
           <Sky
             images={background}
